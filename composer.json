@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pear/xml_serializer": "*",
+        "pear/http_request2": "*"
+    }
+}
